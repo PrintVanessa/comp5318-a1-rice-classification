@@ -1,0 +1,19 @@
+comp5318-a1-rice-classification/
+│
+├── data/
+│   ├── rice-final2.csv
+│   └── test-before.csv
+│
+├── notebooks/
+│   └── comp5318-a1-final.ipynb
+│
+├── src/   (optional but HD-level)
+│   ├── preprocessing.py
+│   ├── models.py
+│   └── evaluation.py
+│
+├── outputs/
+│   └── results.txt   (optional logs)
+│
+├── README.md
+└── requirements.txt
