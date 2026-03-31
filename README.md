@@ -22,6 +22,14 @@ This project implements a complete machine learning pipeline for rice classifica
 * `notebooks/` → final notebook for submission
 * `src/` → reusable functions (optional)
 
+## Branch Strategy
+
+Create branches:
+vanessa-dev
+nicole-dev
+Workflow:
+work → commit → push → merge to main
+
 ## Workflow
 
 * Development is done collaboratively using GitHub branches
