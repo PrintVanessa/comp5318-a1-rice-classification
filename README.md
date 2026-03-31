@@ -22,6 +22,14 @@ This project implements a complete machine learning pipeline for rice classifica
 * `notebooks/` → final notebook for submission
 * `src/` → reusable functions (optional)
 
+## Workflow
+
+* Development is done collaboratively using GitHub branches
+* Each member implements assigned models
+* Final integration and testing are done jointly
+* Notebook is verified to run from start to finish before submission
+
+
 ## How to Run
 
 1. Open notebook:
